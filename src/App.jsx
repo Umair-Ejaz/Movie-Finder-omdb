@@ -187,7 +187,7 @@ export default function App() {
 
       {/* Footer */}
       <footer className="mt-12 text-center py-8 text-gray-600 dark:text-gray-400 text-sm">
-        <div className="font-semibold mb-1">Made by Umair Qureshi</div>
+        <div className="font-semibold mb-1">Made by Umair Qureshi❤️</div>
         <div>Built with ❤️ React + Vite + Tailwind · OMDb</div>
       </footer>
     </div>
